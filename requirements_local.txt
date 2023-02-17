@@ -1,0 +1,4 @@
+python-dotenv
+scrapy
+spidermon
+scrapy_zyte_smartproxy
